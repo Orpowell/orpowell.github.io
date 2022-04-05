@@ -3,5 +3,3 @@ main:
     url: /about/
   - title: "Software"
     url: /software/
-  - title: 'CV'
-    url: /cv/
