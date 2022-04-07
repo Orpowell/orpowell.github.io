@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ' '
+title: 'OP'
 email: mail@oliverpowell.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -28,7 +28,6 @@ search: false
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-layout: splash
 timezone: gmt
 
 include:
@@ -58,7 +57,7 @@ plugins:
 author:
   name   : "Oliver Powell"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Biochemistry Student at the University of East Anglia"
+  bio    : "Helping to advance biological research with bioinformatics and python programming"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

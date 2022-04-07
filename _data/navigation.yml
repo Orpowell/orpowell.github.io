@@ -1,5 +1,7 @@
 main:
   - title: "About"
-    url: /about/
+    url: /
   - title: "Software"
     url: /software/
+  - title: 'CV'
+    url: /cv/
